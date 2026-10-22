@@ -8,10 +8,10 @@ Esta é a primeira versão do projeto, registrada em 13/11/2025. O código repre
 | Versão | Proposta | Repositório |
 | --- | --- | --- |
 | V1 | Sistema básico de cadastro de notas | Este repositório |
-| V2 | Inclusão de matérias e seus pesos | [Acessar V2](https://github.com/Yagog0/sistema-cadastro-de-notas-) |
+| V2 | Inclusão de matérias e seus pesos | [Acessar V2](https://github.com/Yagog0/sistema-notas-v2) |
 
 ## Histórico
-- [Implementação inicial em C++](https://github.com/Yagog0/sistema-cadastro-de-notas/commit/5ba7db59d5be8bc12f999fb211973450fb826d13)
+- [Implementação inicial em C++](https://github.com/Yagog0/sistema-notas-v1/commit/5ba7db59d5be8bc12f999fb211973450fb826d13)
 
 ## Autor
 Desenvolvido por [Yago](https://github.com/Yagog0).
